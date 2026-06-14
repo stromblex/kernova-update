@@ -1,10 +1,10 @@
 [
   {
-    "minecraft": "26.1.2",
+    "minecraft": "26.1",
     "loader": "fabric",
     "version": "1.0.0-release",
     "download": "https://modrinth.com/project/kernova/versions",
-    "changelog": "## Kernova fabric 26.1.2 v1.0.0-release\n\nMinecraft 26.1.2 | fabric | 25/27 listed mods + 1 dependencies = 26 available\n\n### Mods\n\n- BadOptimizations 2.4.1\n- C2ME (Concurrent Chunk Management Engine) 0.4.0-alpha.0.4+26.1.2\n- Cloth Config API 26.1.154+fabric\n- Dynamic FPS 3.11.7\n- Entity Culling 1.10.2\n- Entity View Distance 1.8.1+26.1\n- Fabric API 0.151.0+26.1.2\n- Fast IP Ping v1.0.11-mc26.1.2\n- FastQuit 3.1.4+mc26.1.x\n- FerriteCore 9.0.0-fabric\n- ImmediatelyFast 1.15.2+26.1.2-fabric\n- Iris Shaders 1.10.9+26.1-fabric\n- Krypton 0.3.0\n- Language Reload 1.7.6+26.1\n- Lithium mc26.1.2-0.24.5-fabric\n- Mod Menu 18.0.0-beta.1\n- More Culling 1.7.2\n- PackPing 1.2.0-mc26.1.x-release+fabric\n- Reese's Sodium Options mc26.1.1-2.0.5+fabric\n- ScalableLux 0.2.0+fabric.2b63825\n- Sodium mc26.1.2-0.8.12-fabric\n- Sodium Extra mc26.1.1-0.8.7+fabric\n- VartaPack 1.1.4-mc26.1.x-beta+fabric\n- VMP (Very Many Players) 0.2.0+beta.7.234+26.1.2\n- WI Zoom 1.7-MC26.1.2\n\n### Auto Dependencies\n\n- Text Placeholder API 3.0.0+26.1\n\n### Unavailable\n\n- ~~ThreadTweak~~ - No version available for 26.1.2/fabric\n- ~~YOSBR (Your Options Shall Be Respected)~~ - No version available for 26.1.2/fabric",
+    "changelog": "## Kernova fabric 26.1 v1.0.0-release\n\nMinecraft 26.1 | fabric | 25/27 listed mods + 1 dependencies = 26 available\n\n### Mods\n\n- BadOptimizations 2.4.1\n- C2ME (Concurrent Chunk Management Engine) 0.3.7+alpha.0.61+26.1\n- Cloth Config API 26.1.154+fabric\n- Dynamic FPS 3.11.7\n- Entity Culling 1.10.2\n- Entity View Distance 1.8.0+26.1\n- Fabric API 0.151.0+26.1.2\n- Fast IP Ping v1.0.11-mc26.1.2\n- FastQuit 3.1.4+mc26.1.x\n- FerriteCore 9.0.0-fabric\n- ImmediatelyFast 1.15.2+26.1.2-fabric\n- Iris Shaders 1.10.9+26.1-fabric\n- Krypton 0.3.0\n- Language Reload 1.7.6+26.1\n- Lithium mc26.1.2-0.24.5-fabric\n- Mod Menu 18.0.0-beta.1\n- More Culling 1.7.2\n- PackPing 1.2.0-mc26.1.x-release+fabric\n- Reese's Sodium Options mc26.1.1-2.0.5+fabric\n- ScalableLux 0.2.0+fabric.2b63825\n- Sodium mc26.1.1-0.8.9-fabric\n- Sodium Extra mc26.1.1-0.8.7+fabric\n- VartaPack 1.1.4-mc26.1.x-beta+fabric\n- VMP (Very Many Players) 0.2.0+beta.7.232+26.1\n- WI Zoom 1.7-MC26.1\n\n### Auto Dependencies\n\n- Text Placeholder API 3.0.0+26.1\n\n### Unavailable\n\n- ~~ThreadTweak~~ - No version available for 26.1/fabric\n- ~~YOSBR (Your Options Shall Be Respected)~~ - No version available for 26.1/fabric",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
@@ -15,11 +15,11 @@
     }
   },
   {
-    "minecraft": "26.1.2",
+    "minecraft": "26.1",
     "loader": "neoforge",
-    "version": "1.0.0-beta",
+    "version": "0.1.0-beta",
     "download": "https://modrinth.com/project/kernova/versions",
-    "changelog": "## Kernova neoforge 26.1.2 v1.0.0-beta\n\nMinecraft 26.1.2 | neoforge | 18/22 listed mods + 1 dependencies = 19 available\n\n### Mods\n\n- BadOptimizations 2.4.1\n- C2ME (Concurrent Chunk Management Engine) 0.4.0-alpha.0.87+26.1.2\n- Cloth Config API 26.1.154+neoforge\n- Default Options 26.1.0.1+neoforge-26.1\n- Dynamic FPS 3.11.7\n- Fast IP Ping v1.0.11-mc26.1.2\n- FerriteCore 9.0.0-neoforge\n- ImmediatelyFast 1.15.2+26.1.2-neoforge\n- Iris Shaders 1.10.9+26.1-neoforge\n- Lithium mc26.1.2-0.24.5-neoforge\n- ModernFix 5.27.16+mc26.1.2\n- More Culling 1.7.2\n- PackPing 1.2.0-mc26.1.x-release+neoforge\n- Reese's Sodium Options mc26.1.1-2.0.5+neoforge\n- ScalableLux 0.2.0+neoforge.cd0897f\n- Sodium mc26.1.2-0.8.12-neoforge\n- Sodium Extra mc26.1.1-0.8.7+neoforge\n- VartaPack 1.1.4-mc26.1.x-beta+neoforge\n\n### Auto Dependencies\n\n- Balm 26.1.2.7+neoforge-26.1.2\n\n### Unavailable\n\n- ~~Entity Culling~~ - No version available for 26.1.2/neoforge\n- ~~Noisiumed~~ - No version available for 26.1.2/neoforge\n- ~~Smooth Boot~~ - No version available for 26.1.2/neoforge\n- ~~WI Zoom~~ - No version available for 26.1.2/neoforge",
+    "changelog": "## Kernova neoforge 26.1 v0.1.0-beta\n\nMinecraft 26.1 | neoforge | 18/22 listed mods + 1 dependencies = 19 available\n\n### Mods\n\n- BadOptimizations 2.4.1\n- C2ME (Concurrent Chunk Management Engine) 0.3.7+alpha.0.84+26.1\n- Cloth Config API 26.1.154+neoforge\n- Default Options 26.1.0.1+neoforge-26.1\n- Dynamic FPS 3.11.7\n- Fast IP Ping v1.0.11-mc26.1.2\n- FerriteCore 9.0.0-neoforge\n- ImmediatelyFast 1.15.2+26.1.2-neoforge\n- Iris Shaders 1.10.9+26.1-neoforge\n- Lithium mc26.1.2-0.24.5-neoforge\n- ModernFix 5.27.0+mc26.1\n- More Culling 1.7.2\n- PackPing 1.2.0-mc26.1.x-release+neoforge\n- Reese's Sodium Options mc26.1.1-2.0.5+neoforge\n- ScalableLux 0.2.0+neoforge.cd0897f\n- Sodium mc26.1.1-0.8.9-neoforge\n- Sodium Extra mc26.1.1-0.8.7+neoforge\n- VartaPack 1.1.4-mc26.1.x-beta+neoforge\n\n### Auto Dependencies\n\n- Balm 26.1.0.6+neoforge-26.1\n\n### Unavailable\n\n- ~~Entity Culling~~ - No version available for 26.1/neoforge\n- ~~Noisiumed~~ - No version available for 26.1/neoforge\n- ~~Smooth Boot~~ - No version available for 26.1/neoforge\n- ~~WI Zoom~~ - No version available for 26.1/neoforge",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
