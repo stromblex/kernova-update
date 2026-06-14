@@ -1,0 +1,32 @@
+[
+  {
+    "minecraft": "26.1",
+    "loader": "fabric",
+    "version": "1.0.1-release",
+    "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1",
+    "changelog": "## Kernova fabric 26.1 v1.0.1-release\n\n- Minecraft: 26.1\n- Loader: fabric\n- Pack version: 1.0.1-release (release)\n- Mods: 26 available (25/27 listed + 1 dependencies)\n- Unavailable: ThreadTweak, YOSBR (Your Options Shall Be Respected)\n\n### Notes\n\n- PackPing update checks now use the matching Kernova feed for Modrinth and CurseForge installs.\n- Update notifications now send players to the matching download source for this Fabric build.\n- The in-pack PackPing config now identifies this build as `1.0.1-release`, so installed clients compare against the correct pack version.\n\nMinecraft 26.1 | fabric | 25/27 listed mods + 1 dependencies = 26 available\n\nMinecraft 26.1 | fabric | 25/27 listed mods + 1 dependencies = 26 available",
+    "settings": {
+      "notifications": {
+        "checkOnStartup": true,
+        "showFullscreen": true,
+        "showChat": false,
+        "showToast": false
+      }
+    }
+  },
+  {
+    "minecraft": "26.1",
+    "loader": "neoforge",
+    "version": "0.1.1-beta",
+    "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1",
+    "changelog": "## Kernova neoforge 26.1 v0.1.1-beta\n\n- Minecraft: 26.1\n- Loader: neoforge\n- Pack version: 0.1.1-beta (beta)\n- Mods: 19 available (18/22 listed + 1 dependencies)\n- Unavailable: Entity Culling, Noisiumed, Smooth Boot, WI Zoom\n\n### Notes\n\n- PackPing update checks now use the matching Kernova feed for Modrinth and CurseForge installs.\n- Update notifications now send players to the matching download source for this NeoForge build.\n- The in-pack PackPing config now identifies this build as `0.1.1-beta`, so installed clients compare against the correct pack version.\n\nMinecraft 26.1 | neoforge | 18/22 listed mods + 1 dependencies = 19 available\n\nMinecraft 26.1 | neoforge | 18/22 listed mods + 1 dependencies = 19 available",
+    "settings": {
+      "notifications": {
+        "checkOnStartup": true,
+        "showFullscreen": true,
+        "showChat": false,
+        "showToast": false
+      }
+    }
+  }
+]
