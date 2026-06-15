@@ -2,9 +2,9 @@
   {
     "minecraft": "26.1",
     "loader": "fabric",
-    "version": "1.0.0-release",
-    "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1.1",
-    "changelog": "Kernova is available for Minecraft 26.1.1.\n\n## Kernova fabric 26.1.1 v1.0.0-release\n\n- Minecraft: 26.1.1\n- Loader: fabric\n- Pack version: 1.0.0-release (release)\n- Mods: 26 available (25/27 listed + 1 dependencies)\n- Unavailable: ThreadTweak, YOSBR (Your Options Shall Be Respected)",
+    "version": "1.0.1-release",
+    "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1",
+    "changelog": "PackPing update checks now use the matching Kernova feed for Modrinth and CurseForge installs.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
@@ -22,9 +22,9 @@
   {
     "minecraft": "26.1",
     "loader": "neoforge",
-    "version": "0.1.0-beta",
-    "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1.1",
-    "changelog": "Kernova is available for Minecraft 26.1.1.\n\n## Kernova neoforge 26.1.1 v0.1.0-beta\n\n- Minecraft: 26.1.1\n- Loader: neoforge\n- Pack version: 0.1.0-beta (beta)\n- Mods: 18 available (17/22 listed + 1 dependencies)\n- Unavailable: Entity Culling, ModernFix, Noisiumed, Smooth Boot, WI Zoom",
+    "version": "0.1.1-beta",
+    "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1",
+    "changelog": "PackPing update checks now use the matching Kernova feed for Modrinth and CurseForge installs.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
@@ -44,18 +44,14 @@
     "loader": "fabric",
     "version": "1.0.0-release",
     "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1.1",
-    "changelog": "## Kernova fabric 26.1.1 v1.0.0-release\n\n- Minecraft: 26.1.1\n- Loader: fabric\n- Pack version: 1.0.0-release (release)\n- Mods: 26 available (25/27 listed + 1 dependencies)\n- Unavailable: ThreadTweak, YOSBR (Your Options Shall Be Respected)",
+    "changelog": "Initial Kernova build for Minecraft 26.1.1 on fabric.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
         "showFullscreen": true,
         "showChat": false,
-        "showToast": true
+        "showToast": false
       }
-    },
-    "toast": {
-      "title": "§eKernova is available for Minecraft 26.1.1",
-      "subtitle": "§7Download the new Kernova build"
     }
   },
   {
@@ -63,18 +59,14 @@
     "loader": "neoforge",
     "version": "0.1.0-beta",
     "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1.1",
-    "changelog": "## Kernova neoforge 26.1.1 v0.1.0-beta\n\n- Minecraft: 26.1.1\n- Loader: neoforge\n- Pack version: 0.1.0-beta (beta)\n- Mods: 18 available (17/22 listed + 1 dependencies)\n- Unavailable: Entity Culling, ModernFix, Noisiumed, Smooth Boot, WI Zoom",
+    "changelog": "Initial Kernova build for Minecraft 26.1.1 on neoforge.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
         "showFullscreen": true,
         "showChat": false,
-        "showToast": true
+        "showToast": false
       }
-    },
-    "toast": {
-      "title": "§eKernova is available for Minecraft 26.1.1",
-      "subtitle": "§7Download the new Kernova build"
     }
   }
 ]
