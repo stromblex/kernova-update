@@ -4,19 +4,14 @@
     "loader": "fabric",
     "version": "1.0.1-release",
     "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1",
-    "changelog": "PackPing update checks now use the matching Kernova feed for Modrinth and CurseForge installs.\nSee more on Download.",
+    "changelog": "Bug fixes and pack maintenance.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
         "showFullscreen": true,
         "showChat": false,
-        "showToast": true
+        "showToast": false
       }
-    },
-    "upgradeMinecraft": "26.1.1",
-    "toast": {
-      "title": "§eKernova is available for Minecraft 26.1.1",
-      "subtitle": "§7Download the new Kernova build"
     }
   },
   {
@@ -24,19 +19,14 @@
     "loader": "neoforge",
     "version": "0.1.1-beta",
     "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1",
-    "changelog": "PackPing update checks now use the matching Kernova feed for Modrinth and CurseForge installs.\nSee more on Download.",
+    "changelog": "Bug fixes and pack maintenance.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
         "showFullscreen": true,
         "showChat": false,
-        "showToast": true
+        "showToast": false
       }
-    },
-    "upgradeMinecraft": "26.1.1",
-    "toast": {
-      "title": "§eKernova is available for Minecraft 26.1.1",
-      "subtitle": "§7Download the new Kernova build"
     }
   },
   {
@@ -44,7 +34,7 @@
     "loader": "fabric",
     "version": "1.0.0-release",
     "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1.1",
-    "changelog": "Initial Kernova build for Minecraft 26.1.1 on fabric.\nSee more on Download.",
+    "changelog": "New Kernova build for this Minecraft version.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
@@ -59,7 +49,7 @@
     "loader": "neoforge",
     "version": "0.1.0-beta",
     "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1.1",
-    "changelog": "Initial Kernova build for Minecraft 26.1.1 on neoforge.\nSee more on Download.",
+    "changelog": "New Kernova build for this Minecraft version.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
