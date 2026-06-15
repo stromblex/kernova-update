@@ -3,37 +3,47 @@
     "minecraft": "26.1",
     "loader": "fabric",
     "version": "1.0.1-release",
-    "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1",
+    "download": "https://www.curseforge.com/minecraft/modpacks/kernova",
     "changelog": "Bug fixes and pack maintenance.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
         "showFullscreen": true,
         "showChat": false,
-        "showToast": false
+        "showToast": true
       }
+    },
+    "upgradeMinecraft": "26.1.1",
+    "toast": {
+      "title": "§eKernova is available for Minecraft 26.1.1",
+      "subtitle": "§7Download the new Kernova build"
     }
   },
   {
     "minecraft": "26.1",
     "loader": "neoforge",
     "version": "0.1.1-beta",
-    "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1",
+    "download": "https://www.curseforge.com/minecraft/modpacks/kernova",
     "changelog": "Bug fixes and pack maintenance.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
         "showFullscreen": true,
         "showChat": false,
-        "showToast": false
+        "showToast": true
       }
+    },
+    "upgradeMinecraft": "26.1.1",
+    "toast": {
+      "title": "§eKernova is available for Minecraft 26.1.1",
+      "subtitle": "§7Download the new Kernova build"
     }
   },
   {
     "minecraft": "26.1.1",
     "loader": "fabric",
     "version": "1.0.0-release",
-    "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1.1",
+    "download": "https://www.curseforge.com/minecraft/modpacks/kernova",
     "changelog": "New Kernova build for this Minecraft version.\nSee more on Download.",
     "settings": {
       "notifications": {
@@ -48,7 +58,7 @@
     "minecraft": "26.1.1",
     "loader": "neoforge",
     "version": "0.1.0-beta",
-    "download": "https://www.curseforge.com/minecraft/modpacks/kernova/files/all?page=1&pageSize=20&version=26.1.1",
+    "download": "https://www.curseforge.com/minecraft/modpacks/kernova",
     "changelog": "New Kernova build for this Minecraft version.\nSee more on Download.",
     "settings": {
       "notifications": {
