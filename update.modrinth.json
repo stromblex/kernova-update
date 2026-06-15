@@ -3,7 +3,7 @@
     "minecraft": "26.1",
     "loader": "fabric",
     "version": "1.0.0-release",
-    "download": "https://modrinth.com/modpack/kernova/version/1.0.0-release%2Bfabric",
+    "download": "https://modrinth.com/modpack/kernova/version/1.0.0-release%2Bfabric.mc26.1.1",
     "changelog": "Kernova is available for Minecraft 26.1.1.\n\n## Kernova fabric 26.1.1 v1.0.0-release\n\n- Minecraft: 26.1.1\n- Loader: fabric\n- Pack version: 1.0.0-release (release)\n- Mods: 26 available (25/27 listed + 1 dependencies)\n- Unavailable: ThreadTweak, YOSBR (Your Options Shall Be Respected)",
     "settings": {
       "notifications": {
@@ -23,7 +23,7 @@
     "minecraft": "26.1",
     "loader": "neoforge",
     "version": "0.1.0-beta",
-    "download": "https://modrinth.com/modpack/kernova/version/0.1.0-beta%2Bneoforge",
+    "download": "https://modrinth.com/modpack/kernova/version/0.1.0-beta%2Bneoforge.mc26.1.1",
     "changelog": "Kernova is available for Minecraft 26.1.1.\n\n## Kernova neoforge 26.1.1 v0.1.0-beta\n\n- Minecraft: 26.1.1\n- Loader: neoforge\n- Pack version: 0.1.0-beta (beta)\n- Mods: 18 available (17/22 listed + 1 dependencies)\n- Unavailable: Entity Culling, ModernFix, Noisiumed, Smooth Boot, WI Zoom",
     "settings": {
       "notifications": {
@@ -43,7 +43,7 @@
     "minecraft": "26.1.1",
     "loader": "fabric",
     "version": "1.0.0-release",
-    "download": "https://modrinth.com/modpack/kernova/version/1.0.0-release%2Bfabric",
+    "download": "https://modrinth.com/modpack/kernova/version/1.0.0-release%2Bfabric.mc26.1.1",
     "changelog": "## Kernova fabric 26.1.1 v1.0.0-release\n\n- Minecraft: 26.1.1\n- Loader: fabric\n- Pack version: 1.0.0-release (release)\n- Mods: 26 available (25/27 listed + 1 dependencies)\n- Unavailable: ThreadTweak, YOSBR (Your Options Shall Be Respected)",
     "settings": {
       "notifications": {
@@ -62,7 +62,7 @@
     "minecraft": "26.1.1",
     "loader": "neoforge",
     "version": "0.1.0-beta",
-    "download": "https://modrinth.com/modpack/kernova/version/0.1.0-beta%2Bneoforge",
+    "download": "https://modrinth.com/modpack/kernova/version/0.1.0-beta%2Bneoforge.mc26.1.1",
     "changelog": "## Kernova neoforge 26.1.1 v0.1.0-beta\n\n- Minecraft: 26.1.1\n- Loader: neoforge\n- Pack version: 0.1.0-beta (beta)\n- Mods: 18 available (17/22 listed + 1 dependencies)\n- Unavailable: Entity Culling, ModernFix, Noisiumed, Smooth Boot, WI Zoom",
     "settings": {
       "notifications": {
