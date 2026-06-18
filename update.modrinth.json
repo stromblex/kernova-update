@@ -13,9 +13,9 @@
         "showToast": true
       }
     },
-    "upgradeMinecraft": "26.1.1",
+    "upgradeMinecraft": "26.1.2",
     "toast": {
-      "title": "§eKernova is available for Minecraft 26.1.1",
+      "title": "§eKernova is available for Minecraft 26.1.2",
       "subtitle": "§7Download the new Kernova build"
     }
   },
@@ -33,9 +33,9 @@
         "showToast": true
       }
     },
-    "upgradeMinecraft": "26.1.1",
+    "upgradeMinecraft": "26.1.2",
     "toast": {
-      "title": "§eKernova is available for Minecraft 26.1.1",
+      "title": "§eKernova is available for Minecraft 26.1.2",
       "subtitle": "§7Download the new Kernova build"
     }
   },
@@ -50,8 +50,13 @@
         "checkOnStartup": true,
         "showFullscreen": true,
         "showChat": false,
-        "showToast": false
+        "showToast": true
       }
+    },
+    "upgradeMinecraft": "26.1.2",
+    "toast": {
+      "title": "§eKernova is available for Minecraft 26.1.2",
+      "subtitle": "§7Download the new Kernova build"
     }
   },
   {
@@ -60,6 +65,41 @@
     "version": "0.1.1-beta",
     "download": "https://modrinth.com/modpack/kernova",
     "changelog": "Updated mods and dependencies.\nSee more on Download.",
+    "settings": {
+      "notifications": {
+        "checkOnStartup": true,
+        "showFullscreen": true,
+        "showChat": false,
+        "showToast": true
+      }
+    },
+    "upgradeMinecraft": "26.1.2",
+    "toast": {
+      "title": "§eKernova is available for Minecraft 26.1.2",
+      "subtitle": "§7Download the new Kernova build"
+    }
+  },
+  {
+    "minecraft": "26.1.2",
+    "loader": "fabric",
+    "version": "1.0.0-release",
+    "download": "https://modrinth.com/modpack/kernova",
+    "changelog": "New Kernova build for this Minecraft version.\nSee more on Download.",
+    "settings": {
+      "notifications": {
+        "checkOnStartup": true,
+        "showFullscreen": true,
+        "showChat": false,
+        "showToast": false
+      }
+    }
+  },
+  {
+    "minecraft": "26.1.2",
+    "loader": "neoforge",
+    "version": "0.1.0-beta",
+    "download": "https://modrinth.com/modpack/kernova",
+    "changelog": "New Kernova build for this Minecraft version.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
