@@ -122,9 +122,9 @@
   {
     "minecraft": "26.2",
     "loader": "fabric",
-    "version": "0.1.0-beta",
+    "version": "0.1.1-beta",
     "download": "https://modrinth.com/modpack/kernova",
-    "changelog": "New Kernova build for this Minecraft version.\nSee more on Download.",
+    "changelog": "Updated mods and dependencies.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
@@ -137,9 +137,9 @@
   {
     "minecraft": "26.2",
     "loader": "neoforge",
-    "version": "0.1.0-beta",
+    "version": "0.1.1-beta",
     "download": "https://modrinth.com/modpack/kernova",
-    "changelog": "New Kernova build for this Minecraft version.\nSee more on Download.",
+    "changelog": "Updated mods and dependencies.\nSee more on Download.",
     "settings": {
       "notifications": {
         "checkOnStartup": true,
