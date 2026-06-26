@@ -2,7 +2,7 @@
   {
     "minecraft": "26.1",
     "loader": "fabric",
-    "version": "1.0.2-release",
+    "version": "1.0.3-release",
     "download": "https://www.curseforge.com/minecraft/modpacks/kernova",
     "changelog": "Updated mods and dependencies.\nSee more on Download.",
     "settings": {
@@ -22,7 +22,7 @@
   {
     "minecraft": "26.1",
     "loader": "neoforge",
-    "version": "0.1.2-beta",
+    "version": "0.1.3-beta",
     "download": "https://www.curseforge.com/minecraft/modpacks/kernova",
     "changelog": "Updated mods and dependencies.\nSee more on Download.",
     "settings": {
